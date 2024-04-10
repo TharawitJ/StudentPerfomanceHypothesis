@@ -1,4 +1,5 @@
 **Student Prefomance project** to hypothesis testing.
+https://www.kaggle.com/code/tharawitj/studentperformance-hypothesis-testing
 ---
 ### CRISP-DM processes for data mining.
 1. Business Understanding
@@ -44,3 +45,8 @@
 
 6. Deployment
     * Those hypothesis testing result telling that differental in enviroment can be effect to student test performance. If school or education place or even student themself can create the good enviroment, that will be impact to test performance in good way too.
+
+---
+References:
+https://www.kaggle.com/code/ekrembayar/a-b-testing-step-by-step-hypothesis-testing
+https://www.kaggle.com/code/yogidsba/insurance-claims-eda-hypothesis-testing
