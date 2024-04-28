@@ -3,7 +3,7 @@ https://www.kaggle.com/code/tharawitj/studentperformance-hypothesis-testing
 ---
 ### CRISP-DM processes for data mining.
 1. Business Understanding
-    * Student performance can affected by enviroment. School or education place should be aware of this.
+    * Student performance can affected by environment. School or education place should be aware of this.
 
 2. Data Understanding
     * Dataset 1,000 samples 8 feature with no missing value and no duplicated.
